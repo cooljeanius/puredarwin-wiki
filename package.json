@@ -4,6 +4,6 @@
 		"sidebar": "node sidebar.js"
 	},
 	"devDependencies": {
-		"vite": "^5.4.20"
+		"vite": "^7.1.11"
 	}
 }
